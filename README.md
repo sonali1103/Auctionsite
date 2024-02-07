@@ -1,7 +1,7 @@
-## This repository contains the source code for a car auction website built using .NET microservices architecture, RabbitMQ for messaging, and both PostgreSQL and MongoDB for data storage.
 
 # Overview
-This project aims to provide a platform for users to buy and sell cars through an online auction system. The application is built using microservices architecture to ensure scalability, resilience, and maintainability.
+This repository contains the source code for a car auction website built using .NET microservices architecture, RabbitMQ for messaging, and both PostgreSQL and MongoDB for data storage.
+. This project aims to provide a platform for users to buy and sell cars through an online auction system. The application is built using microservices architecture to ensure scalability, resilience, and maintainability.
 
 # Technologies Used
 .NET Microservices
